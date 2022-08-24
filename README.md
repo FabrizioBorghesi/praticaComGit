@@ -10,8 +10,8 @@ Gerente do Projeto: [💻@Fabrizio Borghesi](https://github.com/FabrizioBorghesi
 
 Developer: [💻@GbrielZanoni](https://github.com/GbrielZanoni) Responsável pela operação de Subtração
 
-Developer: [💻@AugustoPozza](https://github.com/AugustoPozza) Responsável pela operação de Multiplicação
+Developer: [💻@AugustoPozza](https://github.com/AugustoPozza) Responsável pela operação de Soma
 
-Developer: [💻@Thiago Prado Marçal](https://github.com/ThiagoPradouni) Responsável pela operação de Adição
+Developer: [💻@Thiago Prado Marçal](https://github.com/ThiagoPradouni) Responsável pela operação de Multiplicação
 
 Desenvolvedor: [💻@GuilhLopes](https://github.com/GuilhLopes) Responsável pela operação de Divisão
