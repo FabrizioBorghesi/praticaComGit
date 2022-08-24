@@ -1,3 +1,15 @@
-# praticaComGit
-é os aliado e quem nao anda junto vai se baliado
+### Trabalho "Prática com Git"
 
+Uma calculadora simples no VisualG que usa procedimentos e funções, realiza as 4 operações aritiméticas simples. 
+
+Autores: 
+
+Gerente do Projeto: [💻@Fabrizio Borghesi](https://github.com/FabrizioBorghesi) Realizou a organização do grupo
+
+Developer: [💻@GbrielZanoni](https://github.com/GbrielZanoni) Responsável pela operação de Subtração
+
+Developer: [💻@AugustoPozza](https://github.com/AugustoPozza) Responsável pela operação de Multiplicação
+
+Developer: [💻@Thiago Prado Marçal](https://github.com/ThiagoPradouni) Responsável pela operação de Adição
+
+Desenvolvedor: [💻@GuilhLopes](https://github.com/GuilhLopes) Responsável pela operação de Divisão
