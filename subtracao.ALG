@@ -1,32 +1,49 @@
 Algoritmo "semnome"
-// Disciplina   : Introdução a Lógica de Programação
+// Disciplina   : IntroduÃ§Ã£o a LÃ³gica de ProgramaÃ§Ã£o
 // Professor   : Edson Shinki Kaneshima
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 24/08/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
 opcao: inteiro
+
+procedimento p_subtracao
+var
+numero2, numero, resultado: real
+inicio
+
+escreval("Defina o valor do primeiro nÃºmero:")
+leia(numero)
+escreval("Defina o nÃºmero que vocÃª deseja subtrair do valor anterior.")
+leia(numero2)
+
+resultado <- numero - numero2
+
+escreval("O resultado da subtraÃ§Ã£o Ã© de:")
+escreval(resultado)
+
+fimprocedimento
 
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
 escolha opcao
 
 caso 1
-escreval("Realize a Soma de um número.")
+escreval("Realize a Soma de um nÃºmero.")
 p_soma
 caso 2
-escreval("Realize a Subtração de um número.")
+escreval("Realize a SubtraÃ§Ã£o de um nÃºmero.")
 p_subtracao
 caso 3
-escreval("Realize a Multiplicação de um número.")
+escreval("Realize a MultiplicaÃ§Ã£o de um nÃºmero.")
 p_multiplicao
 caso 4
-escreval("Realize a Divisão de um número.")
+escreval("Realize a DivisÃ£o de um nÃºmero.")
 p_divisao
 
 Fimalgoritmo
