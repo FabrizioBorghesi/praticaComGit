@@ -1,3 +1,5 @@
+![LOGO](https://cdn.discordapp.com/attachments/991463056641105960/1007055346419892275/unnamed.png)
+
 ### Trabalho "Prática com Git"
 
 Uma calculadora simples no VisualG que usa procedimentos e funções, realiza as 4 operações aritiméticas simples. 
