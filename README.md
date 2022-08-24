@@ -1,4 +1,4 @@
-![LOGO](https://cdn.discordapp.com/attachments/991463056641105960/1007055346419892275/unnamed.png)
+![LOGO](https://cdn-icons-png.flaticon.com/512/25/25231.png)
 
 ### Trabalho "Prática com Git"
 
